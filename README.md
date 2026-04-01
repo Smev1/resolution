@@ -1,5 +1,3 @@
-**
-
 # Hack Club Resolution!!!
 
 ## Week 1
